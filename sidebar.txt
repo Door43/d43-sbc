@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sbc:home|Door43 (sbc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sbc|d43-sbc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sbc/archive/master.zip|d43-sbc.zip]]
+
+**Recent Changes**
+{{changes>ns = sbc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sbc|Ethnologue data]]
+
